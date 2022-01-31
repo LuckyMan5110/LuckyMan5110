@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @cuteBear85
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, Glad to meet you! I’m @cuteBear85
+- 👀 My Skills
+      Blockchain architecture
+      Cryptography.
+      Data structures.
+      Smart contracts.
+      Web development.
+      
+ 🌱  💞️  📫
 
 <!---
 cuteBear85/cuteBear85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
