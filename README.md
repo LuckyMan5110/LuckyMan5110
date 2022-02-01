@@ -17,4 +17,4 @@
 
    You have nothing to worry about. We've got you covered. Brought together, our Ethereum-based solutions with proven contract code, friendly UI and robust middleware      connectivity yield multifunctional and effective DApps.
 
-👇🏻💙😄🌎🐦⚙️👨‍📇🏫📝🔬
+                           👇🏻💙😄🌎🐦⚙️👨‍📇🏫📝🔬
