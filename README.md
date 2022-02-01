@@ -5,16 +5,16 @@
      
                             ------ Services -------
 
-- 🌱 Blockchain Security & Smart Contract Audit
-   Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
+- 🌱 Blockchain Security & Smart Contract Audit : 
+   📚Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.
    
-- 📫 Decentralized Solutions Development
-   Implemeting blockchain technology into different spheres and industries.
+- 📫 Decentralized Solutions Development : 
+   🌐Implemeting blockchain technology into different spheres and industries.
    
-- 💞️ Smart Contracts and DApps
-   Development, testing and deployment tailored smart contracts with individual business logic.
+- 💞️ Smart Contracts and DApps : 
+   ✨Development, testing and deployment tailored smart contracts with individual business logic.
 
    You have nothing to worry about. We've got you covered. Brought together, our Ethereum-based solutions with proven contract code, friendly UI and robust middleware      connectivity yield multifunctional and effective DApps.
 
-✨👇🏻📚💙😄🌎🌐🐦⚙️📚👨‍📇🏫📝🔬
+👇🏻💙😄🌎🐦⚙️👨‍📇🏫📝🔬
