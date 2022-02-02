@@ -7,14 +7,13 @@
    <li>Comprehensive review of code vulnerabilities and logical errors.</li>
  </ul>
 <br/>
-
-   
-- 📫 Decentralized Solutions Development : 
-   🌐Implemeting blockchain technology into different spheres and industries.
-   
-- 💞️ Smart Contracts and DApps : 
-   ✨Development, testing and deployment tailored smart contracts with individual business logic.
-
+<ul>📫 Decentralized Solutions Development
+   <li>Implemeting blockchain technology into different spheres and industries.</li>
+</ul>
+<br/>
+<ul>🌐 Smart Contracts and DApps 
+   <li>Development, testing and deployment tailored smart contracts with individual business logic.</li>
+</ul>
    You have nothing to worry about. We've got you covered. Brought together, our Ethereum-based solutions with proven contract code, friendly UI and robust middleware      connectivity yield multifunctional and effective DApps.
 
 
