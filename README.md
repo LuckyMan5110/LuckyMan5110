@@ -19,23 +19,30 @@
 - 📫 How to reach me **iwanegor0401@gmail.com**
 
 ### **_Skills_**
-<table>
-  <tr>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-  </tr>  
-</table>
-                       
+[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
+[![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/-Angular-d2082d?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
+[![Embark](https://img.shields.io/badge/-Embark-blue?style=for-the-badge&logo=skyliner&logoColor=white)]()
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
+[![eWasm](https://img.shields.io/badge/-ewasm-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)]()
+[![CCNA](https://img.shields.io/badge/-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)]()
+[![Baseline](https://img.shields.io/badge/-Baseline-orange?style=for-the-badge&logo=buffer&logoColor=white)]()
+[![Hyperledger](https://img.shields.io/badge/-Hyperledger-7d00ff?style=for-the-badge&logo=linux-foundation&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
+[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+
 ### **_DeFi Experiences_**
 - NFT Mint Dapps
 <table>
@@ -133,37 +140,7 @@
     </tr>  
 </table>
 
-                           
-## Tech stack
-[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
-[![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/-Angular-d2082d?style=for-the-badge&logo=angular&logoColor=white)]()
-[![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
-[![Embark](https://img.shields.io/badge/-Embark-blue?style=for-the-badge&logo=skyliner&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![eWasm](https://img.shields.io/badge/-ewasm-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)]()
-[![CCNA](https://img.shields.io/badge/-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)]()
-[![Baseline](https://img.shields.io/badge/-Baseline-orange?style=for-the-badge&logo=buffer&logoColor=white)]()
-[![Hyperledger](https://img.shields.io/badge/-Hyperledger-7d00ff?style=for-the-badge&logo=linux-foundation&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
-[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
-[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
-## Blockchain
-
-I am software engineer and blockchain consultant. My main filed in blockchain development is writing & testing smart contracts for the Ethereum blockchain using both Solidity and Vyper languages. I just need to say, Remix IDE is awesome. Also, there's a couple Hyperledger projects aside on which I am currently working. Stay tuned!
-
-I am certified Blockchain engineer by European Blockchain Hub and here is one of the open source projects on which I worked on. 
 ## React Native
 
 Good starting point in React Native development is this repo & article which I am giving to you
