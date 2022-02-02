@@ -1,11 +1,8 @@
 # Blockchain developer
 ## Smart Contracts, DApps and web services Developer.
 ### Hi, **there.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Solidity, NFT, Defi, PIVX, Node.js, React.js
 
-***All this text is important***
-
-# - 🌱 Blockchain Security & Smart Contract Audit : 
+***- 🌱 Blockchain Security & Smart Contract Audit : 
    📚Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.
    
