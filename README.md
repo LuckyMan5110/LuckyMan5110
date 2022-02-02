@@ -2,17 +2,10 @@
 ## Smart Contracts, DApps and web services Developer.
 ### Hi, **there.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Solidity, NFT, Defi, PIVX, Node.js, React.js
-@octocat :+1::bar_chart: This PR looks great - it's ready to merge! :shipit:
 
 ***All this text is important***
-- 👋 Hi, Glad to meet you! I’m @cuteBear85
-- 👀 I am a smart contracts, decentralized applications (DApps) and web services developer.
 
-   Key technology stack: Python, Django, JavaScript, Solidity, web3.py and Truffle.
-     
-                            ------ Services -------
-
-- 🌱 Blockchain Security & Smart Contract Audit : 
+# - 🌱 Blockchain Security & Smart Contract Audit : 
    📚Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.
    
