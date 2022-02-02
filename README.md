@@ -1,4 +1,4 @@
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+@octocat :+1::bar_chart: This PR looks great - it's ready to merge! :shipit:
 ```
 function test() {
   console.log("notice the blank line before this function?");
