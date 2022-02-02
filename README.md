@@ -2,9 +2,9 @@
 <h2 align="center">Smart Contracts, DApps and web services Developer</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<ul>📚 Blockchain Security & Smart Contract Audit</ul>
-   Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
-   Comprehensive review of code vulnerabilities and logical errors.</li>
+<ul>📚 Blockchain Security & Smart Contract Audit
+<li>Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.</li>
+   Comprehensive review of code vulnerabilities and logical errors.
  </ul>
 <ul>📫 Decentralized Solutions Development
    <li>Implemeting blockchain technology into different spheres and industries.</li>
