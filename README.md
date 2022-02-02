@@ -5,23 +5,13 @@
 <ul>📚 Blockchain Security & Smart Contract Audit
 <li>Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.</li>
    Comprehensive review of code vulnerabilities and logical errors.
- </ul>
+</ul>
 <ul>📫 Decentralized Solutions Development
    <li>Implemeting blockchain technology into different spheres and industries.</li>
 </ul>
-<br/>
 <ul>🌐 Smart Contracts and DApps 
    <li>Development, testing and deployment tailored smart contracts with individual business logic.</li>
 </ul>
-   You have nothing to worry about. We've got you covered. Brought together, our Ethereum-based solutions with proven contract code, friendly UI and robust middleware      connectivity yield multifunctional and effective DApps.
-
-
-#### I am a blockchain developer in senior level and work in DeFi projects.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
-- Fork of PancakeSwap, GooseDeFi, PantherSwap.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 
 - 🔭 I’m currently working on [Like Soft](https://www.likesoft.io/)
 
