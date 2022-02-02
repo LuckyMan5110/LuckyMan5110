@@ -1,13 +1,9 @@
-### Hi **there** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Blockchain developer
+## Smart Contracts, DApps and web services Developer.
+### Hi, **there.** <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Solidity, NFT, Defi, PIVX, Node.js, React.js
 @octocat :+1::bar_chart: This PR looks great - it's ready to merge! :shipit:
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-                                                  # Blockchain developer
-## The largest heading
+
 ***All this text is important***
 - 👋 Hi, Glad to meet you! I’m @cuteBear85
 - 👀 I am a smart contracts, decentralized applications (DApps) and web services developer.
