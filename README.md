@@ -5,10 +5,10 @@
 <ul>📚 Blockchain Security & Smart Contract Audit</ul>
    Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.
-<br/>
+<br/><br/>
 <ul>📫 Decentralized Solutions Development</ul>
    Implemeting blockchain technology into different spheres and industries.
-<br/>
+<br/><br/>
 <ul>🌐 Smart Contracts and DApps</ul> 
    Development, testing and deployment tailored smart contracts with individual business logic.
 
