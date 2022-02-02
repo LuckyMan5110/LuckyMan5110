@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <br />
 
@@ -247,4 +247,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 - Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
                            
                            
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
