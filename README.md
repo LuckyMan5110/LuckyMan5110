@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Welcome 👋 </b></h1>
+<h1 align="center">👋 WELCOME, I'm ✨Smart Contract Developer✨<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
@@ -85,7 +85,6 @@ Here are some ideas to get you started:
 -->
 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -135,8 +134,7 @@ JavaScript   1 hr 10 mins    ██████░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
-<h1 align="center">Hi 👋, I'm ✨cutebear85✨</h1>
-<h3 align="center">Smart Contract Developer</h3>
+
 
 - 🔭 I’m currently working on [Like Soft](https://www.likesoft.io/)
 
