@@ -2,7 +2,12 @@
 <h4 align="center">I'm Smart Contract Developer.</h4>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+#### I am a blockchain developer in senior level and work in DeFi projects.
+- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
+- Fork of PancakeSwap, GooseDeFi, PantherSwap.
+- Decentralized Exchanges with TradingView.
+- Token Bridge, Block Explorer.
+- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
 
 <!--
 **andrejrakic/andrejrakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -256,12 +261,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     </tr>  
 </table>
 
-#### I am a blockchain developer in senior level and work in DeFi projects.
-- NFT Mint websites like Cryptopunks, NFT marketplaces like Rarible.
-- Fork of PancakeSwap, GooseDeFi, PantherSwap.
-- Decentralized Exchanges with TradingView.
-- Token Bridge, Block Explorer.
-- Smart contracts for erc20, erc721 with token pre-sale, redistribution, etc.
                            
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
