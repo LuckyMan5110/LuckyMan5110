@@ -140,27 +140,6 @@
     </tr>  
 </table>
 
-
-## React Native
-
-Good starting point in React Native development is this repo & article which I am giving to you
-
-[![ReactNativeMedium](https://github.com/andrejrakic/andrejrakic/blob/master/reactnative.png)](https://medium.com/@andrej.rakic/how-to-setup-your-react-native-app-47dcd7d2118e)
-
-## DevSecOps
-
-Shoutout to these two amazing repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HerrSpace&repo=CCNA-Cheat-Sheet)](https://github.com/HerrSpace/CCNA-Cheat-Sheet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manisso&repo=fsociety)](https://github.com/Manisso/fsociety)
-
-## Blog  🖥
-
-Feel free to check some of the most lovable stories from mine blog
-
-[![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
-[![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
-
 ### **_Contact Details_**
 <p align='center'>
 <!-- 
