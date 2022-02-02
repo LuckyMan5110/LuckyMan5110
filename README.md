@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">✨ WELCOME ✨, I'm Blockchain Developer.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center">I'm Smart Contracts, DApps and web services Developer.</h2>
+<h2 align="center">Smart Contracts, DApps and web services Developer.</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 Blockchain Security & Smart Contract Audit.
-   📚Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
+-- 📚Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.
    
 - 📫 Decentralized Solutions Development : 
