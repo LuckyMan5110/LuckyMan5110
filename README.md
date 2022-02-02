@@ -3,10 +3,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <ul>📚 Blockchain Security & Smart Contract Audit
-Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.</li>
+   Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
    Comprehensive review of code vulnerabilities and logical errors.</li>
  </ul>
-<br/>
 <ul>📫 Decentralized Solutions Development
    <li>Implemeting blockchain technology into different spheres and industries.</li>
 </ul>
