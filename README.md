@@ -1,6 +1,6 @@
 # Blockchain developer
 ## Smart Contracts, DApps and web services Developer.
-### Hi, **there.** <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi, **there.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Solidity, NFT, Defi, PIVX, Node.js, React.js
 @octocat :+1::bar_chart: This PR looks great - it's ready to merge! :shipit:
 
