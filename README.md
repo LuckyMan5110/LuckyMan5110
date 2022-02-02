@@ -29,32 +29,10 @@
 
 I am software engineer and blockchain consultant. My main filed in blockchain development is writing & testing smart contracts for the Ethereum blockchain using both Solidity and Vyper languages. I just need to say, Remix IDE is awesome. Also, there's a couple Hyperledger projects aside on which I am currently working. Stay tuned!
 
-I am certified Blockchain engineer by European Blockchain Hub and here is one of the open source projects on which I worked on. <b>More in pinned repos!</b>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Timacum-Development&repo=blockchain-betting)](https://github.com/Timacum-Development/blockchain-betting)
-
-Ever interested how to start with blockchain development or how to create your own Cryptocurrency?! Check out this educational articles which I wrote for [Blockonomi](https://blockonomi.com/author/andrej-rakic/)
-
-[![solidity](https://github.com/andrejrakic/andrejrakic/blob/master/solidity.png)](https://blockonomi.com/solidity-tutorial/)
-[![erc20](https://github.com/andrejrakic/andrejrakic/blob/master/erc20.png)](https://blockonomi.com/create-ethereum-token/)
-
-For a Hyperledger developers I highly recommend to use this IBM Blockchain VS Code extension
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IBM-Blockchain&repo=blockchain-vscode-extension)](https://github.com/IBM-Blockchain/blockchain-vscode-extension)
-
-<b>Need a Blockchain Conslution? Feel free to ping me!</b>
-
-Also, a little gift to open source community! I'm giving you a list of 100+ Blockchain Resources for Developers ⛓
-
-👇👇👇
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejrakic&repo=100-blockchain-developer-resources)](https://github.com/andrejrakic/100-blockchain-developer-resources)
-
+I am certified Blockchain engineer by European Blockchain Hub and here is one of the open source projects on which I worked on. 
 ## React Native
 
 Good starting point in React Native development is this repo & article which I am giving to you
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejrakic&repo=ReactNativeBoilerplate)](https://github.com/andrejrakic/ReactNativeBoilerplate)
 
 [![ReactNativeMedium](https://github.com/andrejrakic/andrejrakic/blob/master/reactnative.png)](https://medium.com/@andrej.rakic/how-to-setup-your-react-native-app-47dcd7d2118e)
 
@@ -72,20 +50,6 @@ Feel free to check some of the most lovable stories from mine blog
 [![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
 [![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
 
-## Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-<p align="center">
- <a href="https://open.spotify.com/show/0TLE2uWYKFayqVe5Ccsyvi">
-  <img src="https://pbs.twimg.com/media/Es6fDoDXEAcrNQp?format=jpg&name=medium">
- </a>
-</p>
-
----
-
-<br />
-Hats off to Linus Torvalds, Edward Snowden and Elon Musk. Let's create meaningful & quality software, respect our privacy, use secure & free internet worldwide and go to Mars! Thank you for the opportunity to work remote, travel and live life 🚀 
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -103,10 +67,6 @@ Hats off to Linus Torvalds, Edward Snowden and Elon Musk. Let's create meaningfu
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/andrejrakic/count.svg" />
 </p>
 
 <!--
