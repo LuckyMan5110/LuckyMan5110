@@ -36,26 +36,7 @@
   </tr>  
 </table>
                        
-### **_Contact Details_**
-<p align='center'>
-<!-- 
-   <a href="https://t.me/kroim1202">
-      <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-   </a>&nbsp;&nbsp;
-   <a href="https://discord.gg/gGaQtGvk4m">
-      <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-   </a>&nbsp;&nbsp;
--->
-
-<a href="https://join.skype.com/invite/eumi2mzscGm8">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:kjipgnysjh2@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
-
-### DeFi Experiences
+### **_DeFi Experiences_**
 - NFT Mint Dapps
 <table>
     <thead align="center">
@@ -88,30 +69,6 @@
             </a>
         </td>                
     </tr>
-    <thead align="center">
-        <tr>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-            <td>HellDemon</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="http://194.233.79.244:7005/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://helldemons.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="200">
-            </a>
-        </td>                       
-    </tr>   
 </table>
 
 - NFT Marketplaces
@@ -227,6 +184,24 @@ Feel free to check some of the most lovable stories from mine blog
 [![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
 [![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
 
+### **_Contact Details_**
+<p align='center'>
+<!-- 
+   <a href="https://t.me/kroim1202">
+      <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+   </a>&nbsp;&nbsp;
+   <a href="https://discord.gg/gGaQtGvk4m">
+      <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+   </a>&nbsp;&nbsp;
+-->
+
+<a href="https://join.skype.com/invite/eumi2mzscGm8">
+  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:kjipgnysjh2@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
