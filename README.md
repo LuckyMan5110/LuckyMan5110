@@ -140,7 +140,7 @@
     </tr>  
 </table>
 
-### **_Contact Details_**
+### **_Contact Details_**<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align='center'>
 <!-- 
    <a href="https://t.me/kroim1202">
@@ -158,22 +158,3 @@
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.linkedin.com/in/andrejrakic/" target="blank">
-  <img align="center" alt="Andrej's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-   <a href="https://medium.com/@andrej.rakic" target="blank">
-  <img align="center" alt="Andrej's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
- </a> 
- <a href="https://www.instagram.com/andrej_rakic/" target="blank">
-  <img align="center" alt="Andrej's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> 
- </a>
-  <br/>
-  <br/>
-  Thanks for stopping by 😁<br/>
-</p>                           
-
