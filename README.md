@@ -77,14 +77,40 @@
         </td>                
     </tr>
 </table>
-
-- NFT Marketplaces
+- DEX
+<table>
+<thead align="center">
+        <tr>
+            <td>CosmicSwap</td>
+            <td>DDEXX INFO</td>
+            <td>MaticSwap</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://app.cosmicswap.finance/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="http://analytics.ddexx.io">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td> 
+    </tr>  
+</table>
+### **_SHOPIFY Experiences_**
 <table>
     <thead align="center">
         <tr>
             <td>PixelPimp</td>
             <td>Latitude</td>
-            <td>LunaChowNFT</td>
+            <td>LunaChow</td>
             <td>GekoSaveAuction</td>
         </tr>
     </thead>
@@ -112,33 +138,7 @@
     </tr>
 </table>
 
-- SHOPIFY
-<table>
-<thead align="center">
-        <tr>
-            <td>CosmicSwap</td>
-            <td>DDEXX INFO</td>
-            <td>MaticSwap</td>  
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://app.cosmicswap.finance/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="http://analytics.ddexx.io">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://maticfront.web.app/farms">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
-            </a>
-        </td> 
-    </tr>  
-</table>
+
 
 ### **_Contact Details_**<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align='center'>
