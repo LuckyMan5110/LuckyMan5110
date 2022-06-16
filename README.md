@@ -104,6 +104,7 @@
         </td> 
     </tr>  
 </table>
+
 ### **_SHOPIFY Experiences_**
 <table>
     <thead align="center">
