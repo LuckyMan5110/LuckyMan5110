@@ -12,10 +12,6 @@
 <ul>🌐 Blockchain Development</ul> 
    Developing smart contract based on solidity
 
-<br/><br/>
-- 📫 How to reach me **tomas961115@gmail.com**
-
-
 ### **_Skills_**
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
