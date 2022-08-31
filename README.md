@@ -13,7 +13,7 @@
    Developing smart contract based on solidity
 
 <br/><br/>
-- 📫 How to reach me **seinom8@gmail.com**
+- 📫 How to reach me **tomas961115@gmail.com**
 
 
 ### **_Skills_**
