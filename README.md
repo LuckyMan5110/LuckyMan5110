@@ -1,4 +1,4 @@
-# Hi, I'm Hujy Tanaka 👋
+# Hi 👋
 
 ## AI / Full-Stack Developer | 10+ Years of Experience
 
