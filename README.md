@@ -79,10 +79,3 @@ My work includes:
 - AI workflow systems
 - Full-stack product development
 
----
-
-## Contact
-
-Email: your-email@example.com  
-GitHub: https://github.com/your-github-username  
-Portfolio: https://your-portfolio-link.com
