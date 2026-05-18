@@ -9,6 +9,7 @@ I work across frontend, backend, database, APIs, cloud deployment, and AI integr
 ---
 
 🚀 What I deliver:
+
 ✅ Scalable and maintainable architecture
 
 ✅ Modern responsive UI/UX
@@ -26,13 +27,13 @@ I work across frontend, backend, database, APIs, cloud deployment, and AI integr
 ## Tech Stack
 
 ### Frontend
-React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
 ### Backend
-Node.js, Express.js, REST APIs, PostgreSQL, Supabase, Prisma
+Python, Node.js, Express.js, REST APIs, PostgreSQL, Supabase, Prisma
 
 ### AI Engineering
-OpenAI API, Anthropic API, LangChain, RAG, vector search, embeddings, AI automation workflows
+AI Agent, OpenAI API, Anthropic API, LangChain, RAG, vector search, embeddings, AI automation workflows
 
 ### Cloud & Tools
 GitHub, Vercel, Netlify, GitHub Actions, CI/CD, Docker
