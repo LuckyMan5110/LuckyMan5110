@@ -8,15 +8,13 @@ I work across frontend, backend, database, APIs, cloud deployment, and AI integr
 
 ---
 
-## What I Do
-
-- Build AI-powered web applications
-- Develop full-stack SaaS platforms
-- Create chatbot and RAG systems
-- Build dashboards and admin panels
-- Integrate OpenAI, Anthropic, and third-party APIs
-- Design secure backend systems and databases
-- Deploy production applications on cloud platforms
+🚀 What I deliver:
+✅ Scalable and maintainable architecture
+✅ Modern responsive UI/UX
+✅ Clean, optimized code
+✅ Fast communication and reliable delivery
+✅ AI workflows tailored to business goals
+✅ Long-term technical support
 
 ---
 
