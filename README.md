@@ -10,10 +10,15 @@ I work across frontend, backend, database, APIs, cloud deployment, and AI integr
 
 🚀 What I deliver:
 ✅ Scalable and maintainable architecture
+
 ✅ Modern responsive UI/UX
+
 ✅ Clean, optimized code
+
 ✅ Fast communication and reliable delivery
+
 ✅ AI workflows tailored to business goals
+
 ✅ Long-term technical support
 
 ---
