@@ -1,6 +1,6 @@
 # Hi 👋
 
-## AI / Full-Stack Developer | 10+ Years of Experience
+## AI / Full-Stack Developer | 8+ Years of Experience
 
 I am a full-stack developer focused on building AI-powered web applications, SaaS platforms, dashboards, automation tools, and production-ready business systems.
 
