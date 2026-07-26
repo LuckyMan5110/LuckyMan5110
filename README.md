@@ -58,7 +58,7 @@ A full-stack dashboard with authentication, user roles, database management, and
 
 ## Experience
 
-I have 10+ years of experience building web applications, business platforms, internal tools, and AI-powered products for startups and businesses.
+I have 9+ years of experience building web applications, business platforms, internal tools, and AI-powered products for startups and businesses.
 
 My work includes:
 
